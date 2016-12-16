@@ -1,0 +1,43 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/peter/piav2/irain_charge/" . "charging/")
+ ("/home/peter/piav2/" . "irain_charge/")
+ ("/home/peter/.emacs.d/" . "lisp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/peter/piav2/irain_charge/charging/"
+ "/home/peter/.emacs.d/lisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "charge.py"
+ "init-packages.el"
+ "init-elpy.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/peter/piav2/irain_charge/charging/" (22609 5305 699007 50000) "./" "../" "time_during_coupon_proc.py" "prepay_vip.pyc" "prepay_stat.py" "prepay_bonus_point.py" "prepay_storage_money.py" "prepay_army.py" "prepay_base.py" "prepay_army.pyc" "prepay_equity_card.pyc" "prepay_cash.py" "__init__.py" "prepay_vip.py" "prepay_ecoupon.py" "prepay_cycle.pyc" "prepay_ecoupon.pyc" "prepay_storage_hour.pyc" "prepay_storage_money.pyc" "prepay_online.pyc" "charge_detail.py" "prepay_bind_card.py" "prepay_history.py" "__init__.pyc" "prepay_base.pyc" "prepay_free.py" "prepay_storage_hour.py" "prepay_bonus_point.pyc" "prepay_reversed_time.py" "charge.py" "prepay_queue.pyc" "prepay_stat.pyc" "prepay_online.py" "prepay_short_free.pyc" "charge_detail.pyc" "prepay_queue.py" "prepay_bind_card.pyc" "prepay_equity_card.py" "prepay_free.pyc" "charge.pyc" "prepay_free_time.py" "prepay_cash.pyc" "prepay_cycle.py" "prepay_short_free.py" "prepay_free_time.pyc" "prepay_paper.py" "prepay_paper.pyc" "prepay_reversed_time.pyc" "time_during_coupon_proc.pyc")
+
+ ("/home/peter/piav2/irain_charge/" (22608 58364 462390 929000) "./" "adapt_depot/" "../" "util_charge.pyc" "error.py" "__init__.py" "config.pyc" "config.py" "online/" "types.py" "__init__.pyc" "util_charge.py" "param_init/" "types.pyc" "charging/" "error.pyc" "pay/")
+
+ ("/home/peter/piav2/" (22608 58364 666387 911000) "irain_web/" "./" "python27/" "irain_websocket/" "test_sync.py" "../" "irain_clearsd/" ".git/" "irain_tool/" "python_irain_binlog.py" "irain_monitor/" "tests/" "python_irain_park.py" "load_lib_path.pyc" ".idea/" "upgrade/" "load_lib_path.py" "irain_park/" "npm-debug.log" "python_irain_websocket.py" "create_db.sh" "other/" "irain_sync/" "manage.py" "python_irain_web.py" "config/" "db.sql" "checkpid.sh" "irain_lib/" "z_v3_db_patch/" "python_irain_celery.py" ".gitignore" "test_mmap.py" "test_charge/" "python_irain_init.py" "irain_hware/" "setup.py" "scripts/" "__about__.py" "irain_om/" "restart.sh" "irain_charge/" "apidoc.json" "setup.cfg" "test_charging.py" "python_irain_monitor.py" "MANIFEST.in" "CHANGES.rst" "python_irain_sync.py" "mmap/" "vpr/" "irain_common/" "requirements.txt" "test_park.py" "irain_init/" "OpenGLContext.profile" "irain_debug/" "card_info_script.py" "start.sh" "README.rst" "doc/" "irain_binlog/")
+
+ ("/home/peter/.emacs.d/lisp/" (22610 27509 412020 478000) "./" "init-packages.el~" "init-theme.el" "../" "init-org.el" "init-gui-frame.el" "init-self-func.el" "init-elpy.el" "init-font.el" "init-js.el" "init-modeline.el" "init-packages.el" "init-keybindings.el")
+
+ ("/home/peter/.emacs.d/" (22610 26346 632655 381000) "./" "../" "auto-save-list/" ".git/" "recentf" "backups/" "README.org" "elpa/" ".gitignore" "init.el" "init-js.el" "License.txt" "lisp/")
+
+ ("/home/peter/" (22610 26642 951435 765000) ".config/" "./" ".java/" ".python_history" ".gksu.lock" ".cache/" "../" "piav2.tar.gz" "irain_park.sql" ".pki/" "桌面/" "shuijingcheng_update.zip" "notes/" ".spacemacs.d/" ".gimp-2.8/" ".tooling/" ".elfeed/" "spacemacs/" ".lesshst" "advance_pay/" "KuaiPan/" "pyvpr/" ".zcompdump" ".Xmodmap" "ImageTransfer/" ".deepinwine/" "spacemacs.d-zilong/" ".spacemacs.d-my/" "tmp/" "iTudou/" "emacs/" ".wiznote/" ".thunderbird/" "emacs.d/" ".gSTM/" ".gnome2/" ".oh-my-zsh/" ".zshrc" "Youku Files/" "si_proc/" ".spacemacs.d-bak/" ".spe/" ".idea/" ".mysql/" ".selected_editor" ".ruby_env.sh" ".gnome2_private/" "jedi-starter/" "software/" "v3/" "kernel/" "ipia_bak/" ".ssh/" ".ICEauthority" "vpr_server/" "文档/" ".mozilla/" ".bash_history" ".adobe/" ".presage/" "图片/" "minicom.log" "trans_v3.py~" "youtube-dl-gui/" "fonts/" ".putty/" ".emacs.keyfreq" ".gemrc" ".wireshark/" ".sudo_as_admin_successful" "minicom" ".vagrant.d/" ".wine/" ".xsession-errors" ".bashrc" ".minirc.dfl" "piav2_bak/" ".gem/" ".wget-hsts" ".viminfo" ".Xauthority" "Source Insight/" ".gconf/" ".kingsoft/" ".wxFormBuilder-peter-_home_peter_workspace_client_irainOM.fbp" ".macromedia/" ".hotssh/" ".aptitude/" ".wxFormBuilder" ".xmind/" ".bash_logout" ".smex-items" "下载/" ".apport-ignore.xml" ".rbenv/" ".emacs.d-bak/" ".local/" ".nano/" ".vimrc" "音乐/" "park_lib/" "update.py" ".subversion/" ".gnupg/" "park/" ".xsession-errors.old" ".zsh-update" ".gnome/" ".xinputrc" ".ipython/" "piav2/" "docs/" "lisp/" ".gvfs/" ".zcompdump-peter-5.1.1" ".vim/" "ipia/" "trans_v3.py" ".emacs.d-purcell/" "公共的/" ".swt/" ".thumbnails/" "tensorflow/" ".profile" ".mplayer/" "视频/" "Concurrency/" ".backups/" "vpr_ice_mul-198/" "vpr/" ".emacs.d-judi/" ".dmrc" ".PyCharm50/" ".slime-history.eld" "easyloggingpp/" "shuijingcheng_update/" ".eclipse/" ".PyCharm2016.2/" ".zsh_history" "nanduwuye/" ".compiz/" ".pip/" ".kde/" ".mysql_history" ".stardict/" ".wxglade/" ".w3m/" ".gitconfig" "testPark/" ".gstreamer-0.10/" ".vandyke/" "模板/" ".recently-used" "workspace/" ".dbus/" "cv/" ".oracle_jre_usage/" "InOutPark.xmind" "org-notes/" ".emacs.d/" ".clusterssh/")
+
+ ("/home/peter/software/" (22582 45585 875105 627000) "./" "emacs-25.1.tar.xz" "../" "ctprocesslog/" "pycharm-2016.2.1/" "wxfb/" "libiconv-1.14.tar.gz" "wxformbuider/" "opencv-3.1.0.zip" "electronic-wechat-linux-ia32/" "pycharm-5.0.5/" "kcachegrind-0.7.4/" "XX-Net-master/" "pycharm-professional-2016.2.1.tar.gz" "opencv-3.1.0/" "pycharm-community-5.0.4/" "ld_pl2303_v0728.rar" "eclipse/" "FileZilla_3.21.0_x86_64-linux-gnu.tar.bz2" "Python-2.5.2/" "Python-2.5.2.tar.bz2" "plantuml4idea.zip" "20151207a9.tar.gz" "libini-1.1.10/" "MySQL-python-1.2.4b4.tar.gz" "libini-1.1.10-2.tgz" "Discuz_X3.2_SC_UTF8.zip" "Disk/" "Discuz_X3.2_SC_UTF8/" "MySQL-python-1.2.4b4/" "emacs-24.5/" "emacs-25.1/" "emacs-24.5.tar.xz" "pycharm-community-5.0.4.tar.gz" "linux-ia32.tar.gz" "libiconv-1.14/" "kcachegrind-0.7.4.tar.gz" "pycharm-professional-5.0.5.tar.gz" "FileZilla3/" "XX-Net-master.zip")
+
+ ("/home/peter/software/emacs-24.5/" (22524 32184 178228 629000) "aclocal.m4" "./" "README" "../" "Makefile.in" "ChangeLog" "COPYING" ".dir-locals.el" "site-lisp/" "info/" "config.bat" "configure" "admin/" "lib/" "msdos/" "etc/" "src/" "Makefile" "configure.out" "BUGS" "m4/" "configure.ac" "build-aux/" "nt/" "oldXMenu/" "lwlib/" "si/" "config.log" "autogen.sh" "lisp/" "nextstep/" "lib-src/" "INSTALL" "config.status" "leim/" "make-dist" "doc/" "make.txt")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

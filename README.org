@@ -1,0 +1,12 @@
+* why I do this project?
+Emacs is one of the best editors in the world. It's free.
+So I want to configure it to adapt my habit.
+
+* todo list
+1. gui configure 
+2. sqlite save configure.
+3. project list
+4. debug
+5. remote debug
+6. support python, c, c++
+7. support common lisp program by sbcl, slime

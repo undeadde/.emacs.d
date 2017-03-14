@@ -33,6 +33,7 @@
                                ;; --- Themes ---
                                monokai-theme
                                evil
+                               slime
                                ;; solarized-theme
                                ) "Default packages")
 

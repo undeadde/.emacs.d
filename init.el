@@ -5,6 +5,7 @@
 (add-to-list 'load-path (expand-file-name "~/.emacs.d/lisp"))
 
 
+(require 'init-utils)
 (require 'init-packages)
 (require 'init-gui-frame)
 (require 'init-font)
@@ -14,6 +15,7 @@
 (require 'init-js)
 (require 'init-org)
 (require 'init-elpy)
+(require 'init-slime)
 
 ;; 禁止 Emacs 自动生成备份文件
 (setq make-backup-files nil)

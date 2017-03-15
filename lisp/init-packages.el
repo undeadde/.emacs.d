@@ -33,6 +33,17 @@
                                ;; --- Themes ---
                                monokai-theme
                                evil
+                               evil-surround
+                               evil-visualstar
+                               evil-mc
+                               evil-mark-replace
+                               evil-escape
+                               evil-space
+                               evil-numbers
+                               evil-matchit
+                               evil-nerd-commenter
+                               general
+                               slime
                                ;; solarized-theme
                                ) "Default packages")
 

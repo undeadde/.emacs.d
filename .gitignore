@@ -3,5 +3,5 @@ auto-save-list
 elpa/
 recentf
 places
-ido.*
-
+ido.last
+*.elc

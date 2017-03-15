@@ -1,5 +1,5 @@
 ;; I use sbcl, `C-h v slime-read-interactive-args RET` for details
-;; you need install the program sblc, of course
+;; you need install the program sbcl, of course
 
 (setq inferior-lisp-program "sbcl")
 
@@ -9,6 +9,7 @@
      (setq slime-contribs '(slime-fancy))
      (setq slime-protocol-version 'ignore)
      (setq slime-net-coding-system 'utf-8-unix)
-     (setq slime-complete-symbol*-fancy t)))
+     (setq slime-complete-symbol*-fancy t)
+     ))
 
 (provide 'init-slime)

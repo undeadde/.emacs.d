@@ -2,5 +2,6 @@
 auto-save-list
 elpa/
 recentf
+places
 ido.last
 *.elc

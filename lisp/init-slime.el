@@ -1,5 +1,6 @@
 ;; I use sbcl, `C-h v slime-read-interactive-args RET` for details
 ;; you need install the program sbcl, of course
+
 (setq inferior-lisp-program "sbcl")
 
 (eval-after-load 'slime

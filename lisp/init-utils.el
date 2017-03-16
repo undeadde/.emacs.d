@@ -197,4 +197,5 @@
                        (diff-region-exit-from-certain-buffer ,buffer-name)))
       )))
 ;; }}
+
 (provide 'init-utils)

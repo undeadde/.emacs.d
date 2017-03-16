@@ -46,6 +46,7 @@
                      (require 'init-site-lisp) ;; Must come before elpa, as it may provide package.el
                      )
 
+(require 'init-utils)
 (require 'init-packages)
 (require 'init-gui-frame)
 (require 'init-font)

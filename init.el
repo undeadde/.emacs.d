@@ -54,9 +54,10 @@
 (require 'init-keybindings)
 (require 'init-js)
 (require 'init-org)
-;;(require 'init-elpy)
 (require 'init-slime)
 (require 'init-evil)
+;;(require 'init-elpy)
+
 ;; 禁止 Emacs 自动生成备份文件
 (setq make-backup-files nil)
 

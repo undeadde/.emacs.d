@@ -5,5 +5,7 @@
 ;; 设置 org-agenda 打开快捷键
 (global-set-key (kbd "C-c a") 'org-agenda)
 
+;; 设置 youdao-dictionary 快捷键
+(global-set-key (kbd "C-c y") 'youdao-dictionary-search-at-point+)
 
 (provide 'init-keybindings)

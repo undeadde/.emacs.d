@@ -10,11 +10,18 @@
 
 (package-initialize)
 
-(setq default-directory "~")
+(defvar user-home-directory
+  (expand-file-name (concat user-emacs-directory "../"))
+  "The user's home directory.")
+
+(defvar user-projects-dir
+  (expand-file-name (concat user-home-directory "Projects/"))
+  "The directory containing the user's checked out source code.")
+
 (setq emacs-load-start-time (current-time))
+
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))
 (require 'init-benchmarking) ;; Measure startup time
-
 ;;----------------------------------------------------------------------------
 ;; Temporarily reduce garbage collection during startup
 ;;----------------------------------------------------------------------------
